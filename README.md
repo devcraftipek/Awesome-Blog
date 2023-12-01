@@ -8,12 +8,11 @@ Temel amacı, şık ve kullanıcı dostu bir blog sitesi oluşturmak ve Bootstra
 - Şık form elemanları ve giriş sayfaları
 - Kartlar aracılığıyla içerik gösterimi
 - Basit ve etkileyici bir kullanıcı arayüzü
-- JavaScript kullanılarak dinamik özellikler
+  
 # Kullanılan Teknolojiler
 
 - HTML5
 - CSS3
-- JavaScript
 - Bootstrap
 
 
